@@ -1,7 +1,8 @@
 #!/bin/bash
 # Script Name: prestage_app_upgrade.sh
 # Author: Brian Davidson
-# Purpose: Prestage softwrae for an upgrade
+# Purpose: Prestage software for an upgrade
+# Version: 1.0
 
 # Error OUTPUT-COLORING
 red='\e[0;31m'
