@@ -2,6 +2,7 @@
 # Script Name: prestage_app_upgrade.sh
 # Author: Brian Davidson
 # Purpose: Prestage softwrae for an upgrade
+# Version: 2.0
 
 # Error OUTPUT-COLORING
 red='\e[0;31m'
@@ -11,7 +12,7 @@ NC='\e[0m' # No Color
 
 
 # Variables
-app_list=('CNG','PAL','CCH','EC','NIS','PRODCAT','OMS','CPA','VANTIV','NCS','CDCS')
+app_list=('CNG','PAL','CCH','EC','NIS','PRODCAT','OMS','CPA','VANTIV','NCS','CDCS','VTM')
 software_dir="/opt/software"
 cts_dir="/opt/cts"
 tmp_dir="/tmp"
